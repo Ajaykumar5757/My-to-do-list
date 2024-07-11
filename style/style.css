@@ -1,0 +1,65 @@
+body{
+    background-color: blanchedalmond;
+    margin: 30px;
+    padding: 50px 200px;
+}
+
+.top{
+    margin:  60px 300px auto;
+    border: 3px solid rgb(15, 167, 15);
+    background-color: rgb(15, 167, 15);
+    padding: 50px 10px;
+}
+
+.main{
+    padding: 30px;
+    background-color: white;
+}
+
+#btn1,#btn2{
+    background-color: rgb(42, 134, 225);
+    border-color: rgb(42, 134, 225);
+}
+
+#btn3{
+    background-color: red;
+    border-color: red;
+}
+
+#btn4{
+    background-color: green;
+    border-color: green;
+}
+
+#btn1,#btn2,#btn3,#btn4{
+    border-radius: 20px;
+    padding: 5px 20px;
+    margin-left: 10px;
+    color: white;
+    border:none;
+}
+
+ol{
+    margin: 30px 2px;
+}
+
+.btn{
+    width: 90%;
+    padding: 5px;
+    background-color: white;
+    border:none;
+    text-align:left;
+}
+
+input{
+    padding: 5px;
+}
+
+#todo{
+    text-decoration: line-through;
+    background-color: rgb(221, 216, 216);
+}
+
+p{
+    color: rgb(146, 143, 143);
+}
